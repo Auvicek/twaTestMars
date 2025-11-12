@@ -1,0 +1,40 @@
+
+
+h1{
+    font-family: anton;
+    font-weight: normal;
+    color: #ff5435;
+    text-align: center;
+    font-size: 4rem;
+}
+.podnadpis{
+    font-size: 1.5rem;
+    font-family: Lexed Deca;
+    text-align: center;
+    color: #ff5435;
+}
+h2{
+    color: #ff5435;
+    font-family: anton;
+    font-weight: normal;
+    font-size: 2rem;
+}
+p{
+    font-family: Lexed Deca;
+    color: #ffffff;
+}
+a{
+    color: #ff5435;
+    text-decoration: none;
+    
+}
+ul, ol{
+    color: #ffffff;
+    font-family: Lexed Deca;
+}
+img{
+    width: 420px;
+}
+body{
+    background-color: #333333;
+}
